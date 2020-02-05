@@ -2,6 +2,10 @@ pragma solidity >0.6.0;
 /**
     Hierarquia é o processo de fazer com que uma classe/contract herde todos os itens do ancestral.
     É interessante para tornar o código mais limpo e organizado.
+    Exemplos retirados do site: www.cryptozombies.io
+    Author: Davidson Souza
+    Data: Feb, 2020    
+    Source: https://github.com/Davidson-Souza/soladity
  */
 // Classe ancenstral, aquela que será "copiada" para as demais
 contract Doge

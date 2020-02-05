@@ -13,11 +13,13 @@ Diferentemente do bitcoin e as demais altcoins, que possuem uma função especí
   <li>Um tutorial dinâmico e divertido, para quem não sabe nada de Solidity: <a href="https://cryptozombies.io/">CryptoZombies</a></li>
 <li>Ethereum wiki, com mais informações sobre a rede: <a href="https://github.com/ethereum/wiki/wiki"> Ethereum on GitHub</a></li>
  <li>Site oficial do projeto, com mais informações e últimos lançamentos: <a href="https://solidity.readthedocs.io/en/v0.6.2/">Solidity Oficial Site</a></li>
+ <li> Site oficial do Ethereum (De onde eu tirei o vídeo) <a href="https://ethereum.org/">Ethereum.org</a></li>
 </ul>
 # Index:
 <ul>
-  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/B%C3%A1sico%20Da%20Linguagem/ConceitosIniciais.sol"><strong>ConceitosIniciais.sol</strong></a>: Primeiro arquivo, onde é apresentada a linguagem e conceitos básicos, como contratos, operadores, vetores, etc.<li>
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/B%C3%A1sico%20Da%20Linguagem/ConceitosIniciais.sol"><strong>ConceitosIniciais.sol</strong></a>: Primeiro arquivo, onde é apresentada a linguagem e conceitos básicos, como contratos, operadores, vetores, etc.</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/CapituloII.sol"><strong>CapituloII.sol</strong></a>: São apresentadas outras estruturas, como mapping e address. Além de conceitos como <i>pure</i> e <i>view</i>.</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/B%C3%A1sico%20Da%20Linguagem/Hierarquia.sol"><strong>Hierarquia.sol</strong></a>: Aqui é apresentado o conceito de hierarquia de contratos em Solidity</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/Incudes.sol"><strong>Includes.sol</strong></a>: Introdução ao conceito de módulos e includes em Solidity</li>
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/DataLocation.sol"><strong>DataLocation.sol</strong></a>: Locais de armazenamento de variáveis</li>
 </ul>

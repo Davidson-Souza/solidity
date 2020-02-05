@@ -3,8 +3,8 @@
     Princípios básicos da linguagem Solidity, da rede Ethereum.
     Exemplos retirados do site: www.cryptozombies.io
     Author: Davidson Souza
+    Data: Feb, 2020    
     Source: https://github.com/Davidson-Souza/soladity
-    Data: Feb, 2020
 
  */
 
