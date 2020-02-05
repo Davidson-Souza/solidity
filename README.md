@@ -16,7 +16,8 @@ Diferentemente do bitcoin e as demais altcoins, que possuem uma função especí
 </ul>
 # Index:
 <ul>
-  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/ConceitosIniciais.sol"><strong>ConceitosIniciais.sol<strong></a>: Primeiro arquivo, onde é apresentada a linguagem e conceitos básicos, como contratos, operadores, vetores, etc.<li>
-  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/CapituloII.sol"><strong>CapituloII.sol</strong></a>: São apresentadas outras estruturas, como mapping e address. Além de conceitos como _pure_ e _view_.</li>
-  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Hierarquia.sol"><strong></a>Hierarquia.sol</strong>: Aqui é apresentado o conceito de hierarquia de contratos em Solidity</li>
-  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Includes.sol"><strong><a>Includes.sol</strong>: Introdução ao conceito de módulos e includes em Solidity</li></ul>
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/B%C3%A1sico%20Da%20Linguagem/ConceitosIniciais.sol"><strong>ConceitosIniciais.sol</strong></a>: Primeiro arquivo, onde é apresentada a linguagem e conceitos básicos, como contratos, operadores, vetores, etc.<li>
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/CapituloII.sol"><strong>CapituloII.sol</strong></a>: São apresentadas outras estruturas, como mapping e address. Além de conceitos como <i>pure</i> e <i>view</i>.</li>
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/B%C3%A1sico%20Da%20Linguagem/Hierarquia.sol"><strong>Hierarquia.sol</strong></a>: Aqui é apresentado o conceito de hierarquia de contratos em Solidity</li>
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/Incudes.sol"><strong>Includes.sol</strong></a>: Introdução ao conceito de módulos e includes em Solidity</li>
+</ul>
