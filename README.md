@@ -8,6 +8,14 @@ Trata-se de uma linguagem de programação, usada para escrever smart contracts 
 ## Ethereum 
 É uma plataforma totalmente descentralizada, baseada em blockchain. A rede permite os mais diversos tipos de processamento, incluindo, por exemplo jogos, redes sociais, transações financeiras, firmas onchain, etc.
 Diferentemente do bitcoin e as demais altcoins, que possuem uma função específica, e cada modificação é custosa e ineficiente, a rede Ethereum provém uma máquina,Turing complete, que roda com a garantia dos algoritmos de concenso criptográficos. O ethereum usa um sistema de concenso híbrido (<strong>POW</strong> e <strong>POS</strong>).
+
+### Oque pode ser feito com isto?
+A rede Ethereum é muito poderosa, consegue processar desde transações bancárias, passando por contratos e firmas totalmente descentralizada, e até jogos! <br>
+Games online que nescessitem de um alto nível de confiaça (anti-trapaça por exemplo), podem usar a segurança da blockchain, deixando o grosso do processamento nas mãos dos mineradores.<br>
+Firmas podem ser baseadas apenas em um contrato inteligente, e todos os colaboradores interagem com ele.<br>
+Comércios eletrônicos podem usar a blockchain para realizar as transações de maneira segura<br>
+Enfim, uma quantidade absurda de coisas, com a confiaça e poder da blockchain.
+
 # Links:
 <ul>
   <li>Um tutorial dinâmico e divertido, para quem não sabe nada de Solidity: <a href="https://cryptozombies.io/">CryptoZombies</a></li>
@@ -26,4 +34,5 @@ Diferentemente do bitcoin e as demais altcoins, que possuem uma função especí
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/Incudes.sol"><strong>Includes.sol</strong></a>: Introdução ao conceito de módulos e includes em Solidity</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/DataLocation.sol"><strong>DataLocation.sol</strong></a>: Locais de armazenamento de variáveis</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/Visibilidade.sol"><strong>Visibilidade.sol</strong></a>: Visibilidade de funções em contratos na rede</li>
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/Visibilidade.sol"><strong>InteragindoComOutrosContratos.sol</strong></a>: Como interagir com outros contratos na rede</li>
 </ul>
