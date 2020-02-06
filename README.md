@@ -25,4 +25,5 @@ Diferentemente do bitcoin e as demais altcoins, que possuem uma função especí
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/B%C3%A1sico%20Da%20Linguagem/Hierarquia.sol"><strong>Hierarquia.sol</strong></a>: Aqui é apresentado o conceito de hierarquia de contratos em Solidity</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/Incudes.sol"><strong>Includes.sol</strong></a>: Introdução ao conceito de módulos e includes em Solidity</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/DataLocation.sol"><strong>DataLocation.sol</strong></a>: Locais de armazenamento de variáveis</li>
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/Visibilidade.sol"><strong>Visibilidade.sol</strong></a>: Visibilidade de funções em contratos na rede</li>
 </ul>

@@ -3,12 +3,12 @@
     recebe um nome:
     storage: Variáveis salvas de maneira definitiva na blockchain, elas jamais serão apagadas.
     Memory:  Variáveis salvas apenas durante o processamento de uma transação, descartadas após o mesmo.
-    Fazendo um paralelo com computadores físicos, storage seria o disco rígido e memory a memória RAM. Porém 
-    vale ressaltar que variáveis storage NUNCA serão apagadas (talvez modificadas, mas não apagadas), pois ficam 
+    Fazendo um paralelo com computadores físicos, storage seria o disco rígido e memory a memória RAM. Porém
+    vale ressaltar que variáveis storage NUNCA serão apagadas (talvez modificadas, mas não apagadas), pois ficam
     na blockchain.
     Exemplos retirados do site: www.cryptozombies.io
     Author: Davidson Souza
-    Data: Feb, 2020    
+    Data: Feb, 2020
     Source: https://github.com/Davidson-Souza/soladity
  */
  /**
@@ -43,12 +43,12 @@
     // ... aqui anotherSandwich será apenas uma cópia de sandwiches[_index + 1];
     // e se modificar algo em anotherSandwich ...
     anotherSandwich.status = "Eaten!";
-    // ... não mudará nada em sandwiches[_index + 1] 
+    // ... não mudará nada em sandwiches[_index + 1]
     // Mas você pode fazer assim...
     sandwiches[_index + 1] = anotherSandwich;
     // ...se quiser que as mudanças se tornem efetivas na blockchain.
   }
 }
-// Em algum grau de abstração, as variáveis do tipo storage podem ser vistas como ponteiros, assim como no 
+// Em algum grau de abstração, as variáveis do tipo storage podem ser vistas como ponteiros, assim como no
 // C e C++, onde criamos variáveis que "apontam" para um lugar na memória, e modificando o seu valor,
 // você estará alterando o valor daquele endereço.
