@@ -13,8 +13,11 @@ Diferentemente do bitcoin e as demais altcoins, que possuem uma função especí
   <li>Um tutorial dinâmico e divertido, para quem não sabe nada de Solidity: <a href="https://cryptozombies.io/">CryptoZombies</a></li>
 <li>Ethereum wiki, com mais informações sobre a rede: <a href="https://github.com/ethereum/wiki/wiki"> Ethereum on GitHub</a></li>
  <li>Site oficial do projeto, com mais informações e últimos lançamentos: <a href="https://solidity.readthedocs.io/en/v0.6.2/">Solidity Oficial Site</a></li>
- <li> Site oficial do Ethereum (De onde eu tirei o vídeo) <a href="https://ethereum.org/">Ethereum.org</a></li>
+ <li> Site oficial do Ethereum <a href="https://ethereum.org/">Ethereum.org</a></li>
+ <li> Paper do Ethereum, apresentando a plataforma: <a href="http://gavwood.com/Paper.pdf">Ethereum's paper</a></li>
+ <li> Artigo sobre o algorítimo de Hash usado na plataforma: <a href="http://fchabaud.free.fr/English/Publications/sha.pdf">Artigo</a></li>
 </ul>
+
 # Index:
 <ul>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/B%C3%A1sico%20Da%20Linguagem/ConceitosIniciais.sol"><strong>ConceitosIniciais.sol</strong></a>: Primeiro arquivo, onde é apresentada a linguagem e conceitos básicos, como contratos, operadores, vetores, etc.</li>
