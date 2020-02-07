@@ -27,7 +27,10 @@ Enfim, uma quantidade absurda de coisas, com a confiaça e poder da blockchain.
 </ul>
 
 # Index:
-<ul>
+
+##  Parte introdutória
+  Estes arquivos são uma introdução à linguagem, apenas um contato prévio e descontraído com a linguagem 👍🙃
+  <ul>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/B%C3%A1sico%20Da%20Linguagem/ConceitosIniciais.sol"><strong>ConceitosIniciais.sol</strong></a>: Primeiro arquivo, onde é apresentada a linguagem e conceitos básicos, como contratos, operadores, vetores, etc.</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/CapituloII.sol"><strong>CapituloII.sol</strong></a>: São apresentadas outras estruturas, como mapping e address. Além de conceitos como <i>pure</i> e <i>view</i>.</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/B%C3%A1sico%20Da%20Linguagem/Hierarquia.sol"><strong>Hierarquia.sol</strong></a>: Aqui é apresentado o conceito de hierarquia de contratos em Solidity</li>
@@ -36,4 +39,9 @@ Enfim, uma quantidade absurda de coisas, com a confiaça e poder da blockchain.
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/Visibilidade.sol"><strong>Visibilidade.sol</strong></a>: Visibilidade de funções em contratos na rede</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/Visibilidade.sol"><strong>InteragindoComOutrosContratos.sol</strong></a>: Como interagir com outros contratos na rede</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/FunçoesComMultiplosRetornos.sol"><strong>FunçoesComMultiplosRetornos.sol</strong></a>: Declarando e invocando função com múltiplos retornos</li>
+</ul>
+## Falando mais sério...
+<ul>
+  Agora vamos um pouco mais fundo na linguagem, com conceios e políticas que garantem códigos melhores e mais "smart" 😜
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/Cuidados%20Adicionais.sol"><strong>FunçoesComMultiplosRetornos.sol</strong></a>: Declarando e invocando função com múltiplos retornos</li>
 </ul>

@@ -38,12 +38,22 @@ contract estruturas
     }
     function sayHiToVitalik(string memory _name) public pure returns (string memory)
     {
-        // Verifica se o nome é igual à Vitalik. 
+        // Verifica se o nome é igual à Vitalik.
         // A linguagem não suporta comparação de strings nativamente
         // Compara as duas hashes, se forem iguais, considerando a dispersão da hash, elas serão idênticas
         // Se for igual, ele continua, senão ele lança uma excessão
         require(keccak256(abi.encodePacked(_name)) == keccak256(abi.encodePacked("Vitalik")));
         // Se for igual, retorna a mensagem
         return "Hi!";
+    }
+    function sayHiToVitalik(string memory _name) public pure returns(string memory)
+    {
+        // Como toda boa linguagem, temos a possibilidade usar condicionais (if/else).
+        // A sintaxe é muito semelhante à outras lingugens mais conhecidas.
+        // Lembrando que a comparação entre strings não é possível aqui!
+        if (keccak256(abi.encodePacked(_name)) == keccak256(abi.encodePacked("Vitalik")))
+        {
+            return "Hi!";
+        }
     }
 }
