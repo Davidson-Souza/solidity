@@ -35,4 +35,5 @@ Enfim, uma quantidade absurda de coisas, com a confiaça e poder da blockchain.
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/DataLocation.sol"><strong>DataLocation.sol</strong></a>: Locais de armazenamento de variáveis</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/Visibilidade.sol"><strong>Visibilidade.sol</strong></a>: Visibilidade de funções em contratos na rede</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/Visibilidade.sol"><strong>InteragindoComOutrosContratos.sol</strong></a>: Como interagir com outros contratos na rede</li>
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/FunçoesComMultiplosRetornos.sol"><strong>FunçoesComMultiplosRetornos.sol</strong></a>: Declarando e invocando função com múltiplos retornos</li>
 </ul>
