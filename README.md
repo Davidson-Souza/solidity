@@ -40,6 +40,7 @@ Enfim, uma quantidade absurda de coisas, com a confiaça e poder da blockchain.
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/Visibilidade.sol"><strong>InteragindoComOutrosContratos.sol</strong></a>: Como interagir com outros contratos na rede</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Básico%20Da%20Linguagem/FunçoesComMultiplosRetornos.sol"><strong>FunçoesComMultiplosRetornos.sol</strong></a>: Declarando e invocando função com múltiplos retornos</li>
 </ul>
+
 ## Falando mais sério...
 <ul>
   Agora vamos um pouco mais fundo na linguagem, com conceios e políticas que garantem códigos melhores e mais "smart" 😜
