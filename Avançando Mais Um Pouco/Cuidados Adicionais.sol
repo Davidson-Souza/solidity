@@ -6,6 +6,7 @@
     seja invalidado, ou dê algum problema nele e ele seja reescrito, ou simplesmente suma. Como fazer para
     mudar o endereço na interface? Se tiver feito como no "interagindoComOutrosContratos.sol", será impossível,
     mas uma dica bem simples pode ser aplicada para resolver isto.
+    Se você observar uma brecha de sugurança aqio, não se preucupe, corrigiremos isto no futuro!
     Exemplos retirados do site: www.cryptozombies.io
     Author: Davidson Souza
     Data: Feb, 2020
