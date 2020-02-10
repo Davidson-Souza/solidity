@@ -3,10 +3,10 @@
     Outras estruturas na rede Ethereum
     Exemplos retirados do site: www.cryptozombies.io
     Author: Davidson Souza
-    Data: Feb, 2020    
+    Data: Feb, 2020
     Source: https://github.com/Davidson-Souza/soladity
  */
- pragma solidity 0.6.1;
+ pragma solidity 0.6.1;         // Compilador usado
 contract estruturas
 {
     /**
