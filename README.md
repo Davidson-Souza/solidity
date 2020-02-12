@@ -45,8 +45,8 @@ Enfim, uma quantidade absurda de coisas, com a confiaça e poder da blockchain.
 <ul>
   Agora vamos um pouco mais fundo na linguagem, com conceios e políticas que garantem códigos melhores e mais "smart" 😜
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/Cuidados%20Adicionais.sol"><strong>Cuidados Adicionais.sol</strong></a>: Declarando e invocando função com múltiplos retornos</li>
-  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/OwnableContract.sol">OwnableContract.sol</a>: Tem como fazer um contrato possuir um dono? Sim! Vejamos como...</li>
-  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/Gas.sol">Gas.sol</a>: Explicações sobre o sistema de pagamento por uso da rede</li>
-  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/Time.sol">Time.sol</a>: Usando tempo em solidity</li>
+  <li><strong><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/OwnableContract.sol">OwnableContract.sol</a></strong>: Tem como fazer um contrato possuir um dono? Sim! Vejamos como...</li>
+  <li><strong><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/Gas.sol">Gas.sol</a></strong>: Explicações sobre o sistema de pagamento por uso da rede</li>
+  <li><strong><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/Time.sol">Time.sol</a></strong>: Usando tempo em solidity</li>
   
 </ul>

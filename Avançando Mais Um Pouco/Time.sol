@@ -1,7 +1,7 @@
 /**
     Uma coisa muito útil, em qualquer linguagem, é a possibilidade de recuperar e manipular dados relacionados
     à tempo!
-    Em solidity, temos o método "now", que retorna o horário da rede.
+    Em solidity, temos o método "now", que retorna o horário da rede. Ele é  um alias para block.timestamp.
     Exemplos retirados do site: www.cryptozombies.io
     Author: Davidson Souza
     Data: Feb, 2020
