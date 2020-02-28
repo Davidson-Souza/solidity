@@ -13,7 +13,7 @@
     Exemplos retirados do site: www.cryptozombies.io
     Author: Davidson Souza
     Data: Feb, 2020
-    Source: https://github.com/Davidson-Souza/soladity
+    Source: https://github.com/Davidson-Souza/solidity
  */
  pragma solidity 0.6.1;         // Compilador usado
 

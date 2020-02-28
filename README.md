@@ -48,5 +48,6 @@ Enfim, uma quantidade absurda de coisas, com a confiaça e poder da blockchain.
   <li><strong><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/OwnableContract.sol">OwnableContract.sol</a></strong>: Tem como fazer um contrato possuir um dono? Sim! Vejamos como...</li>
   <li><strong><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/Gas.sol">Gas.sol</a></strong>: Explicações sobre o sistema de pagamento por uso da rede</li>
   <li><strong><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/Time.sol">Time.sol</a></strong>: Usando tempo em solidity</li>
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/ModificadoresComParametros.sol"><strong>ModificadoresComParametros.sol</strong></a>: Criando e usando modificadores que pedem parâmetros ao serem usados.</li>
   
 </ul>

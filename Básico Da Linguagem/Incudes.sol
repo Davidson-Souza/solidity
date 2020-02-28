@@ -4,7 +4,7 @@
     Exemplos retirados do site: www.cryptozombies.io
     Author: Davidson Souza
     Data: Feb, 2020    
-    Source: https://github.com/Davidson-Souza/soladity
+    Source: https://github.com/Davidson-Souza/solidity
  */
 
  import "./ConceitosIniciais.sol";           // Se o arquivo estiver na mesma pasta, basta inciar com ./
