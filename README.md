@@ -49,5 +49,7 @@ Enfim, uma quantidade absurda de coisas, com a confiaça e poder da blockchain.
   <li><strong><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/Gas.sol">Gas.sol</a></strong>: Explicações sobre o sistema de pagamento por uso da rede</li>
   <li><strong><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/Time.sol">Time.sol</a></strong>: Usando tempo em solidity</li>
   <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/ModificadoresComParametros.sol"><strong>ModificadoresComParametros.sol</strong></a>: Criando e usando modificadores que pedem parâmetros ao serem usados.</li>
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/Calldata.sol"><strong>Calldata.sol</strong></a>: Passando ponteiros para argumentos passados pelo caller.</li>
+  <li><a href="https://github.com/Davidson-Souza/solidity/blob/master/Avançando%20Mais%20Um%20Pouco/SalvandoGas.sol"><strong>SalvandoGas.sol</strong></a>: Views não custam nada!</li>
   
 </ul>
