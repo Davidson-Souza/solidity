@@ -7,7 +7,7 @@ When deploying contracts, you should use the latest released version of Solidity
 Trata-se de uma linguagem de programação, usada para escrever smart contracts na rede Ethereum. 
 ## Ethereum 
 É uma plataforma totalmente descentralizada, baseada em blockchain. A rede permite os mais diversos tipos de processamento, incluindo, por exemplo jogos, redes sociais, transações financeiras, firmas onchain, etc.
-Diferentemente do bitcoin e as demais altcoins, que possuem uma função específica, e cada modificação é custosa e ineficiente, a rede Ethereum provém uma máquina,Turing complete, que roda com a garantia dos algoritmos de concenso criptográficos. O ethereum usa um sistema de concenso híbrido (<strong>POW</strong> e <strong>POS</strong>).
+Diferentemente do bitcoin e as demais altcoins, que possuem uma função específica, e cada modificação é custosa e ineficiente, a rede Ethereum provém uma máquina,Turing complete, que roda com a garantia dos algoritmos de concenso criptográficos. O ethereum usa um sistema de concenso híbrido (<a href="https://github.com/Davidson-Souza/solidity/wiki/PoW-e-PoS"><strong>PoW</strong></a> e <a href="https://github.com/Davidson-Souza/solidity/wiki/PoW-e-PoS"><strong>PoS</strong></a>).
 
 ### Oque pode ser feito com isto?
 A rede Ethereum é muito poderosa, consegue processar desde transações bancárias, passando por contratos e firmas totalmente descentralizada, e até jogos! <br>
